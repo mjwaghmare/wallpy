@@ -1,6 +1,6 @@
 # wallpy
 
-A application for  beautiful wallpapers by pexels.
+A application for beautiful wallpapers using Pexels Api.
 
 ## Getting Started
 
