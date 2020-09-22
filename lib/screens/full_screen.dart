@@ -100,7 +100,6 @@ class _ImageViewState extends State<ImageView> {
         options: Options(responseType: ResponseType.bytes));
     final result =
         await ImageGallerySaver.saveImage(Uint8List.fromList(response.data));
-    print(result);
     Navigator.pop(context);
   }
 
